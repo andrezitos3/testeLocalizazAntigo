@@ -7,6 +7,8 @@ funcionalidades:
 - o site retorna o código IBGE de acordo com o estado escolhido
 
 - o site retorna o código IBGE de acordo com o município escolhido
+
 - ao selecionar o estado, também é possível abrir a aba de aeroportos e ver quais existem dentro do estado
+
 - com o estado e a cidade selecionados, o site retorna o aeroporto pertencente a cidade
 
